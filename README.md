@@ -1,0 +1,2 @@
+# Verilog_LevelB_technician_DigitalElectronics_No.2
+數位乙級第二題
